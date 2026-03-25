@@ -77,15 +77,7 @@ Enter file path when prompted.
 
 ## 📸 Example
 
-```
-Enter file path:
-main.rs
-
-Debug Report:
-- Possible null pointer issue
-- Missing error handling
-- Suggest using Result type
-```
+<img width="1723" height="776" alt="image" src="https://github.com/user-attachments/assets/227712c3-d4bb-4113-908b-35d51a239d46" />
 
 ---
 
